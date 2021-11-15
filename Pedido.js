@@ -125,6 +125,7 @@ function ActualizarPedido(idpedido){
             console.log(response);
         }
     });
+    
     alert("Pedido Actualizado");
 }
 
